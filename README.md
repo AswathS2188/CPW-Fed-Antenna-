@@ -1,3 +1,3 @@
-# CPW-Fed-Antenna-
+# CPW-Fed-Antenna-published in CISCON 2024 Conference 
 A coplanar waveguide (CPW)-Fed dual polarized triple band antenna design has been proposed for applications like Wi-Fi, Bluetooth, 5G and X-Band Communications.
 To improve the impedance matching, an octal-shaped slot with tapering sections is made in the ground plane. The suggested antenna achieves circular polarization radiation because it has E-shaped asymmetric stub built into the structure that produce orthogonal degenerate modes. Fractional bandwidth of 46% is achieved for the ISM Band in the frequency range (2.38-3.56 GHz), 12% for the 5G Band in the frequency range (4.91-5.49 GHz) and 16% for the X-Band in the frequency range (7.63-8.91 GHz). Left-Handed Circular Polarization has been achieved for the ISM band while the 5G Bands and X-Bands are Linearly Polarized.
